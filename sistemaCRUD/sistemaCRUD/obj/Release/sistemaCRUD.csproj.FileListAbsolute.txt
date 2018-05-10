@@ -1,0 +1,13 @@
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\bin\Release\Banco\Banco.sdf
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\bin\Release\sistemaCRUD.exe.config
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\bin\Release\sistemaCRUD.exe
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\bin\Release\sistemaCRUD.pdb
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\obj\Release\sistemaCRUD.CadastroFuncionario.resources
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\obj\Release\sistemaCRUD.Properties.Resources.resources
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\obj\Release\sistemaCRUD.TelaPrincipal.resources
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\obj\Release\sistemaCRUD.csproj.GenerateResource.cache
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\obj\Release\sistemaCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\obj\Release\sistemaCRUD.csproj.CopyComplete
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\obj\Release\sistemaCRUD.exe
+C:\Users\Dino\source\repos\sistemaCRUD\crudWindowsForms\sistemaCRUD\sistemaCRUD\obj\Release\sistemaCRUD.pdb
